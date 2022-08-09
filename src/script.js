@@ -1,0 +1,1 @@
+alert('a calvície chega para todos')
